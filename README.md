@@ -116,6 +116,20 @@ Questions, bugs or suggestions to : info@hackunderway.com
 
 * [Victor Bancayan](https://www.offsec.com/bug-bounty-program/) - (**CEO at [Hack Underway](https://hackunderway.com/)**) 
 
+---
+
+<h2 align="center">🕵️‍♂️ OSINT Platform</h2>
+<p align="center">
+  <a href="https://hackunderway.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Try%20Enterprise%20Mode-hackunderway.io-0088CC?style=for-the-badge&logo=internet&logoColor=white" alt="OSINT Platform">
+  </a>
+</p>
+<p align="center">
+  <b>Automate OSINT processes</b><br>
+  New <b>Enterprise Mode</b> – Maltego-inspired interface with visual graphs and professional workflows.<br>
+  <a href="https://hackunderway.io/new-update-to-our-osint-platform-hack-underway/" target="_blank">📢 See what's new</a>
+</p>
+
 ## 🔗 Links
 [![Patreon](https://img.shields.io/badge/patreon-000000?style=for-the-badge&logo=Patreon&logoColor=white)](https://www.patreon.com/c/HackUnderway)
 [![Web site](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://hackunderway.com)
